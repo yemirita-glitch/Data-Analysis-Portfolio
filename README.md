@@ -125,20 +125,6 @@ Business intelligence report focused on performance tracking and profit growth a
 
 ---
 
-## 📊 Dashboard Preview
-
-<p align="center">
-  <img src="sales performance dashboard.png" width="700">
-</p>
-
-<p align="center">
-  <img src="sales report.png" width="700">
-</p>
-
-<p align="center">
-  <img src="sales report.png" width="700">
-</p>
-
 ## 🎯 Professional Focus
 
 I am committed to leveraging business intelligence tools and analytical skills to uncover insights that drive strategic growth and operational efficiency.
