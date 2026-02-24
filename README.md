@@ -129,17 +129,17 @@ Business intelligence report focused on performance tracking and profit growth a
 
 ## 📊 Sales performance dashboard
 <p align="center">
-  <img src="images/sales-performance-dashboard.png" width="700">
+  <img src="sales performance dashboard.png" width="700">
 </p>
 
 ## 📈 Sales report
 <p align="center">
-  <img src="images/sales-report.png" width="700">
+  <img src="sales report.png" width="700">
 </p>
 
-## 👥 Customer Breakdown
+## 📈 Sales report 2
 <p align="center">
-  <img src="images/sales-report-2.png" width="700">
+  <img src="sales report.png" width="700">
 </p>
 
 ## 🎯 Professional Focus
