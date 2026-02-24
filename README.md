@@ -127,7 +127,7 @@ Business intelligence report focused on performance tracking and profit growth a
 
 ## 📊 Dashboard preview
 
-![Sales Dashboard](sales-dashboard-1.png)
+<img src="Sales-dashboard-1.png" width="700">
 
 
 ## 🎯 Professional Focus
